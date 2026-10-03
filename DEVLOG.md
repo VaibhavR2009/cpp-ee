@@ -120,23 +120,10 @@
 
 ---
 
-### Day 2 — [date]
-**Focus:** `control flow + functions` · **Building:** `OhmSolver` · **Battery:** 🔋🔋
-
-> Wrote the resistor color-code decoder. `switch` statements make sense now, but I
-> forgot `break` twice and spent 20 minutes wondering why every resistor was white.
-> Live and learn.
-
-**Tomorrow:** `std::vector` and reading netlists from a file.
-
----
-
 ### Day 1 — [date]
 **Focus:** `toolchain setup` · **Building:** repo itself · **Battery:** 🔋🔋🔋
 
-> Installed g++, VS Code, CMake, and git. Fought CMake for an hour and won.
-> "Hello, circuits" compiled on the third try (missing semicolon, obviously).
-> Repo created, README written, streak officially started. Day 1 done.
+> 
 
 **Tomorrow:** variables, types, and a first unit converter.
 
