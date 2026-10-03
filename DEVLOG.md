@@ -58,22 +58,9 @@
 - [ ] First tool a friend could run without my help — *(___)*
 - [ ] MySPICE v1.0 released — *(Month 6)*
 - [ ] VirtualBench complete — *(Month 12)*
-
 ---
 
-## 🪦 The Bug Graveyard
-
-*Where bugs go to teach. Every tombstone = one hard-earned lesson.*
-
-| Date | The Bug | What it taught me |
-|:-----|:--------|:------------------|
-| | *e.g., infinite loop because `i--` instead of `i++`* | *Read my own diffs before blaming the compiler* |
-| | | |
-| | | |
-
----
-
-## 🧩 Entry Templates
+<!-- ## 🧩 Entry Templates
 
 *Copy-paste these. Don't reinvent them at 11pm.*
 
@@ -108,7 +95,7 @@
 - **Next week's focus:**
 ```
 
-</details>
+</details> -->
 
 <details>
 <summary><b>🏁 Monthly recap template</b></summary>
