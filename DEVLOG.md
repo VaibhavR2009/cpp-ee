@@ -97,7 +97,7 @@
 
 </details> -->
 
-<details>
+<!-- <details>
 <summary><b>🏁 Monthly recap template</b></summary>
 
 ```markdown
@@ -112,7 +112,7 @@
 
 </details>
 
----
+--- -->
 
 ## 🗓️ The Log
 
