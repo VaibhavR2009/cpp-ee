@@ -19,8 +19,8 @@
 > I will write one honest entry per day, commit code daily, and never paste what I can't rederive.
 > Missed a day? I don't quit — I log it honestly and continue. The log is allowed to look human.
 
-**Started:** [start date]
-**Signature:** [your name]
+**Started:** 10/02/2026
+**Signature:** Vaibhav Ramji
 
 ---
 
