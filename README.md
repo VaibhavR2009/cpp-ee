@@ -141,8 +141,8 @@ This repo is my proof of work: not a certificate, not a course completion badge 
 ## 📬 Follow Along
 
 - ⭐ Star this repo to watch a lab bench get built from nothing
-- 📬 Reach me: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [your-linkedin-url]
+- 📬 Reach me: [vaibhav.ramji09@gmail.com](mailto:vaibhav.ramji09@gmail.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/vaibhav-ramji-729527396/]
 
 <div align="center">
 
