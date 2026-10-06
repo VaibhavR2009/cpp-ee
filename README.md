@@ -112,22 +112,6 @@ Five non-negotiables. Every day. No exceptions.
 
 ---
 
-## 📝 Devlog
-
-Every day gets one honest paragraph in [`DEVLOG.md`](DEVLOG.md) — wins, bugs, dead ends, and all. No curated highlight reel.
-
-<details>
-<summary><b>🪵 Latest entries</b></summary>
-
-| Day | Entry |
-|:---:|:------|
-| 2 | Set up toolchain, fought CMake, won. First netlist parser works. |
-| 1 | Day one: compiler installed, repo created, streak started. |
-
-</details>
-
----
-
 ## 🎓 Why I'm Doing This
 
 I learn by building. Reading about circuits teaches me what they are — but writing a solver that *fails* until I truly understand nodal analysis teaches me what they *mean*.
